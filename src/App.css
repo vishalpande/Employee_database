@@ -1,0 +1,40 @@
+.hero-container
+{
+  padding: 0px;
+  background-color: cornflowerblue;
+  margin-top: 3%;
+}
+
+
+.footer-container
+
+{
+ background-color: rgb(94, 86, 76);
+  color: rgb(41, 32, 32);
+  
+}
+.btn-primary
+{
+  margin-top: 20px;
+}
+.form-group
+{
+  margin: 20px;
+}
+.container-add{
+margin-top: 20px;
+background-color:cornflowerblue;
+border-radius: 10px;
+width: 700px;
+padding: 20px;
+
+}
+.table
+{
+  width: 300px;
+}
+.btn-sm
+{
+  margin: 0px 20px;
+  width: 60px;
+}
