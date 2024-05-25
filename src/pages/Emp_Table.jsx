@@ -8,7 +8,7 @@ function Emp_Table() {
 
   useEffect(() => {
     fetchData();
-  }, []);
+  }, []);h
 
   const fetchData = () => {
     Employee.getAllEmployees()
